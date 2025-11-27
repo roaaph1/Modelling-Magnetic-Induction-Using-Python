@@ -17,7 +17,7 @@ This modeling approach highlights the role of programming in visualizing and ana
 ![Poster](Poster/poster.jpg)
 
 ## code 
-Include all Python files in the same directory, then run the main script using:
+modelingproject-2.ipynb
 
 
 
