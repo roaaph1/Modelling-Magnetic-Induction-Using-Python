@@ -6,7 +6,8 @@ Finally, error margins were estimated using a custom Python function.
 This modeling approach highlights the role of programming in visualizing and analyzing physics experiments efficiently.
 
 ## Poster
-![Poster](Poster/poster.jpg)
+[Open Poster](modeling%20magnetic%20python%20poster.pdf)
+
 
 ## code 
 [Open modelingproject-2.ipynb](modelingproject-2.ipynb)
